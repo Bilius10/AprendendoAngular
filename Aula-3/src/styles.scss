@@ -1,8 +1,15 @@
 @import "https://fonts.googleapis.com/css2?family=Chewy&family=Roboto:ital,wght@0,700;1,700&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Chewy&family=Roboto:ital,wght@0,800;1,800&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Chewy&family=Poppins:wght@300;400;600;700&family=Roboto:ital@0;1&display=swap";
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+    font-family: "Poppins", sans-serif;
+}
+
+.pad-70{
+    padding: 0 70px;
 }
